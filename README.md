@@ -12,23 +12,23 @@ I'm an assertive and ambitious person who always seeks to challenge himself to a
 
 ## 🏆 Certifications
 <p>
-  <a href="https://credentials.databricks.com/ad0985d5-8f7d-411e-9d69-35e5742c0795">
+  <a href="https://credentials.databricks.com/ad0985d5-8f7d-411e-9d69-35e5742c0795" target="_blank" rel="noopener noreferrer">
     <img src="images/databricks_data_engineer_badge.png" alt="Databricks Data Engineer Associate Badge" width="75" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ValentinoMuchino-1227/6C418EE4F3D79675?sharingId">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ValentinoMuchino-1227/6C418EE4F3D79675?sharingId" target="_blank" rel="noopener noreferrer">
     <img src="images/azure_data_engineer_badge.png" alt="Azure Data Engineer Associate Badge" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ValentinoMuchino-1227/BC7BF86DC2CE4A70?sharingId">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ValentinoMuchino-1227/BC7BF86DC2CE4A70?sharingId" target="_blank" rel="noopener noreferrer">
     <img src="images/azure_data_fundamentals_badge.png" alt="Azure Data Fundamentals Badge" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ValentinoMuchino-1227/71053DFB7EE56738?sharingId">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ValentinoMuchino-1227/71053DFB7EE56738?sharingId" target="_blank" rel="noopener noreferrer">
     <img src="images/azure_fundamentals_badge.png" alt="Azure Fundamentals Badge" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.efset.org/cert/Lfu9Nt">
+  <a href="https://www.efset.org/cert/Lfu9Nt" target="_blank" rel="noopener noreferrer">
     <img src="images/efset_badge.png" alt="EF Set English Test Badge" width="100" />
   </a>
 </p>
@@ -58,6 +58,5 @@ I'm an assertive and ambitious person who always seeks to challenge himself to a
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Valentino Muchino](https://www.linkedin.com/in/valentinomuchino/)
-<!-- - Portfolio / Blog: [your-site] -->
+- LinkedIn: <a href="https://www.linkedin.com/in/valentinomuchino/" target="_blank" rel="noopener noreferrer">Valentino Muchino</a>
 - Email: valentinogrowth@gmail.com
