@@ -54,6 +54,8 @@ I'm an assertive and ambitious person who always seeks to challenge himself to a
 
 ## 📂 Featured Projects
 
+- [`etl-pipeline-csv-to-sql`](https://github.com/valemuchino/etl-pipeline-csv-to-sql) : A fully Dockerized **Extract–Transform–Load** pipeline built with **Python**, **Pandas**, and **PostgreSQL**.
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valemuchino&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Let's Connect
