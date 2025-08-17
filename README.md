@@ -55,6 +55,7 @@ I'm an assertive and ambitious person who always seeks to challenge himself to a
 ## 📂 Featured Projects
 
 - [`etl-pipeline-csv-to-sql`](https://github.com/valemuchino/etl-pipeline-csv-to-sql) : A fully Dockerized **Extract–Transform–Load** pipeline built with **Python**, **Pandas**, and **PostgreSQL**.
+- [`redis-cache-api`](https://github.com/valemuchino/redis-cache-api) : A **real-time** crypto data **API integration** leveraged by using **Redis** caching, wrapped in a clean, type-safe, and fully automated Python 3.12 Dockerized stack.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valemuchino&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
